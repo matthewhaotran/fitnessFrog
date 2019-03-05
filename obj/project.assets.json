@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/matthewhaotran/.nuget/packages/": {},
+    "/Users/matthew/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthewhaotran/src/csharp/csharp.csproj",
+      "projectUniqueName": "/Users/matthew/src/fitnessFrog/csharp.csproj",
       "projectName": "csharp",
-      "projectPath": "/Users/matthewhaotran/src/csharp/csharp.csproj",
-      "packagesPath": "/Users/matthewhaotran/.nuget/packages/",
-      "outputPath": "/Users/matthewhaotran/src/csharp/obj/",
+      "projectPath": "/Users/matthew/src/fitnessFrog/csharp.csproj",
+      "packagesPath": "/Users/matthew/.nuget/packages/",
+      "outputPath": "/Users/matthew/src/fitnessFrog/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/matthewhaotran/.nuget/NuGet/NuGet.Config"
+        "/Users/matthew/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
