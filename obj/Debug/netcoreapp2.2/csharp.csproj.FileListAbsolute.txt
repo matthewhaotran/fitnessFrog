@@ -1,0 +1,11 @@
+/Users/matthewhaotran/src/csharp/bin/Debug/netcoreapp2.2/csharp.deps.json
+/Users/matthewhaotran/src/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.json
+/Users/matthewhaotran/src/csharp/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.dev.json
+/Users/matthewhaotran/src/csharp/bin/Debug/netcoreapp2.2/csharp.dll
+/Users/matthewhaotran/src/csharp/bin/Debug/netcoreapp2.2/csharp.pdb
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.csprojAssemblyReference.cache
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.csproj.CoreCompileInputs.cache
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfoInputs.cache
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfo.cs
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.dll
+/Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.pdb
