@@ -9,3 +9,14 @@
 /Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.AssemblyInfo.cs
 /Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.dll
 /Users/matthewhaotran/src/csharp/obj/Debug/netcoreapp2.2/csharp.pdb
+/Users/matthew/src/fitnessFrog/bin/Debug/netcoreapp2.2/csharp.deps.json
+/Users/matthew/src/fitnessFrog/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.json
+/Users/matthew/src/fitnessFrog/bin/Debug/netcoreapp2.2/csharp.runtimeconfig.dev.json
+/Users/matthew/src/fitnessFrog/bin/Debug/netcoreapp2.2/csharp.dll
+/Users/matthew/src/fitnessFrog/bin/Debug/netcoreapp2.2/csharp.pdb
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.csprojAssemblyReference.cache
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.csproj.CoreCompileInputs.cache
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.AssemblyInfoInputs.cache
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.AssemblyInfo.cs
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.dll
+/Users/matthew/src/fitnessFrog/obj/Debug/netcoreapp2.2/csharp.pdb
